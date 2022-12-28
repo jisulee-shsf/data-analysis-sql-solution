@@ -1,7 +1,7 @@
 -- [03. African Cities]
 
 # submitted code
-SELECT C1.NAME   
-FROM CITY C1
-INNER JOIN COUNTRY C2 ON C1.CountryCode = C2.Code
+SELECT c1.NAME   
+FROM CITY c1
+INNER JOIN COUNTRY c2 ON c1.CountryCode = c2.Code
 WHERE CONTINENT = 'Africa';
