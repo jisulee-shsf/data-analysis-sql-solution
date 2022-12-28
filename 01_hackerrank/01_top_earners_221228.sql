@@ -1,6 +1,6 @@
 -- [01. Top Earners]
 
-# version 1
+# submitted code - version 1
 SELECT months * salary AS earnings
      , COUNT(*)
 FROM Employee
@@ -8,7 +8,7 @@ GROUP BY earnings
 ORDER BY earnings DESC
 LIMIT 1;
 
-# version 2
+# submitted code - version 2
 SELECT earnings
      , COUNT(*)
 FROM (SELECT months * salary AS earnings
