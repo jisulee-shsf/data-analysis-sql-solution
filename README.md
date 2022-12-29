@@ -1,6 +1,6 @@
 ####
 ## Intro
-- 본 repository는 SQL(Structured Query Language) 문제풀이 플랫폼을 활용한 실습 내용을 개인 복습용으로 정리했습니다.
+- 본 repository는 SQL(Structured Query Language) 문제풀이 플랫폼을 활용한 코딩 테스트 대비 실습 내용을 개인 복습용으로 정리했습니다.
 - 첨부된 파일 내의 모든 코드는 직접 작성했으며, 세부 contents는 하기와 같습니다.
 ####
 ## Contents
