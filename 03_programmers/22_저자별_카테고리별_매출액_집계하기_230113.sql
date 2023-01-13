@@ -1,4 +1,4 @@
--- [22. 저자 별 카테고리 별 매출액 집계하기]
+-- [22. 저자별 카테고리별 매출액 집계하기]
 
 # submitted code
 SELECT a.AUTHOR_ID 
