@@ -1,6 +1,6 @@
 ####
 ## Intro
-- 본 repository는 SQL(Structured Query Language) 문제풀이 내용을 정리했습니다.
+- 본 repository는 SQL(Structured Query Language) 테스트 대비 문제풀이 용을 정리했습니다.
 - 첨부된 파일 내의 모든 코드는 직접 작성했으며, 세부 contents는 하기와 같습니다.
 ####
 ## Contents
